@@ -107,7 +107,10 @@ body {
     font-size: 48px;
 }
 
-.menu,
+.menu {
+    display: none;
+}
+
 .fa-x {
     display: none;
 }
